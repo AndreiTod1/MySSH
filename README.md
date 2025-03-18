@@ -33,20 +33,13 @@ Ensures correct syntax and operator usage.
 🏗 How It Works
 
 1️⃣ Start the Server
-# cargo run -- server
+'cargo run -- server'
 
 2️⃣ Run the Client
-# cargo run -- client
+'cargo run -- client'
 
 3️⃣ Login or Register
-# register username:password   # Sign up  
-# username:password            # Login  
+'register username:password' - Sign up  
+'username:password' - Login  
 
 4️⃣ Execute Commands
-example:
-# pwd
-# cd .. 
-# echo Rust is cool; cat file.txt | grep cool
-
-
-
