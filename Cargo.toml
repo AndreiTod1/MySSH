@@ -1,0 +1,10 @@
+[package]
+name = "Proiect_Myssh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes-gcm = "0.10.3"
+rand = "0.8.5"
+x25519-dalek = "2.0"
+argon2 = "0.5.3"
